@@ -1,1 +1,2 @@
-Bom dia Terça Feira
+Bom dia Terça Feira.
+Olá estou inserindo uma nova linha.
